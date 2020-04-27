@@ -11,3 +11,6 @@ My project work for future reference
 # Python basics concepts and problems.
 test.py
 hello hi hello
+
+Follow below steps to create git connection.
+
